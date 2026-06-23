@@ -1,4 +1,4 @@
----
+
 
 ## 🛠️ راهنمای نصب و اجرا (Installation)
 
@@ -13,4 +13,4 @@ sudo bash -c "$(curl -sL "https://raw.githubusercontent.com/c-Nojoom/EZ-Panel/ma
 ```bash
 T.Sin
 ```
----
+
