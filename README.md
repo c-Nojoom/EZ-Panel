@@ -11,6 +11,6 @@ sudo bash -c "$(curl -sL "https://raw.githubusercontent.com/c-Nojoom/EZ-Panel/ma
 ### 💻 ۲. اجرای برنامه
 پس از اتمام فرآیند نصب، برنامه خودکار باز خواهد شد، درصورت خارج شدن و برای دوباره وارد شدن کد زیر را در ترمینال بزنید:
 ```bash
-T.Sin
+EZ-Panel
 ```
 
